@@ -1,6 +1,6 @@
 # validated_react_form
 
-React login form with email and password validation using\:
+React login form with email and password validation using:
 
 `Email-Validator`, `Yup` and `Formik`
 

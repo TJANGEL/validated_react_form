@@ -1,7 +1,7 @@
 import React from "react";
 import { Formik } from "formik";
-import { Yup } from "yup";
-import { EmailValidator } from "email-validator";
+import * as EmailValidator from "email-validator";
+import * as Yup from "yup";
 
 const ValidatedLoginForm = () => (
   <Formik
